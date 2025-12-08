@@ -1,0 +1,5 @@
+Component: stable
+Origin: XLibre
+Label: XLibre Devuan Packages
+Architecture: amd64
+Description: Devuan repository for XLibre.

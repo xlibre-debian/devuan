@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: XLibre
+Label: XLibre Devuan Packages
+Codename: main
+Date: Mon, 08 Dec 2025 02:53:23 UTC
+Architectures: amd64
+Components: stable
+Description: Devuan repository for XLibre.
+MD5Sum:
+ 9da91409da275f506c86f8660cd36d1a 78341 stable/binary-amd64/Packages
+ 68142775d300b0852ec134f59564cbd1 19957 stable/binary-amd64/Packages.gz
+ 9daa9747283c3b46f31e6f70c2597e5c 126 stable/binary-amd64/Release
+ 90ba76b8b7783bc91cbe953590a88f46 39038 stable/source/Sources
+ 313ab18eccbca9c3060d2486f9979edb 9691 stable/source/Sources.gz
+ 0b11d925e4d6ac5cb5578c0f69120efa 127 stable/source/Release
+SHA1:
+ 18a90b5105f5983491857abb698e5c0600b2375b 78341 stable/binary-amd64/Packages
+ 7869e6d5a79e37fc1ffb95e6e3e9a9fefefa7fe0 19957 stable/binary-amd64/Packages.gz
+ 17400a077267dec82a1e263a787ef332c9286a45 126 stable/binary-amd64/Release
+ fe0c1fac80d99dd76df66e3c70b5ad11329ad3a4 39038 stable/source/Sources
+ 38c2ae0bfca25ec9ea00bdc44b27c64182c87c0f 9691 stable/source/Sources.gz
+ fc051270676fa25cec26623306b5cbe0c52884a2 127 stable/source/Release
+SHA256:
+ 49258186756a29d0d276b594a55f2245d69f6bc34ef1b74ea253657ee5ac0593 78341 stable/binary-amd64/Packages
+ 779e410b69ef3576cfb403accfceba4ad14f051168dc0534857710d95b00c83f 19957 stable/binary-amd64/Packages.gz
+ b0fd3ab65a4ab9130e32443aa2afbc06f0ea09ecc16546d721dc97656a2057ba 126 stable/binary-amd64/Release
+ 0f1f47f0cb1f2e0d9af3ff6afd7e3d71c8e9c455bc94193322f8262e8c1197fc 39038 stable/source/Sources
+ f243d58242f6c6cc95e68eec9e233ff11d7bfbce6f9c0bf0ad915ccb8dead04e 9691 stable/source/Sources.gz
+ efaff8cac667adc65f8ff9188c26afa9bb7db6ee7fcc36ca4de26928d9de5b7c 127 stable/source/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEIgdakZ2usXfodMXR15zW8bUjlPoFAmk2PaQACgkQ15zW8bUj
+lPovZRAAoFc4P58OAE7lH62MHRykr47kJ9RYeyTPsgJhJbo2aHBPHxRF2B8j+MNt
+uHkquywkJA3Pbvs2czMEtX1lpdRGzEoYhprUZ4LgoCN4gzc7+xTmSdvmNOkSse66
+7x/UM0hhZz56K4FJBKe+Xs9AzlSVVDBlrvNJEr1TUnv5eAFunflCNHZ5dUbTz11u
+uxthy2/yB6YwcafnPQfSgWh9nDVCkrgNUIN/Tsr1DLYNPg9/HZ2sadaqNBgt2kj1
+VIfGnkqkhBca+QJrZBRX59cWe1qOtf6Z3xQw9ELRhLFYCHS2BCHEpEqdbXrmDWar
+wm1YnOiULcKS5rGzxUy7XzKIYDuwA2Z9SNnUsRGovvisUquQIhWjbTMVhRxLakxN
+MUqrkfPqnLIjvqBMhdeWhs87gAnFP5h/ElxerNXmDF4PPs1CbUP9MBcuwohcEAfY
+W5UndGfMf6t4BHCrsJImo/9/ltdii/TYv/CvybTFoCANL7RTOwzJqC/5xJzjMuK4
+uweM4RrpNU8W2WgMRe6YGtYllsCWbsmIOve1zJdE7dpOOzYzmHsdSaWZL+yNUPR4
+v+UZ7kz0gmLFag0Fli1dhPcs4dTYPnEDd5lnt+yrJaHdc/Hy9aN6F2dh3QBbp70G
+8M1qbT3UDEHszf36dQ/of64POI5dJKyzV1VkxEvsmVaiEO5sF6E=
+=HAMC
+-----END PGP SIGNATURE-----

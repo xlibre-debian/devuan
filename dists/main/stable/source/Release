@@ -1,0 +1,5 @@
+Component: stable
+Origin: XLibre
+Label: XLibre Devuan Packages
+Architecture: source
+Description: Devuan repository for XLibre.
