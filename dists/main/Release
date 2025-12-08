@@ -1,7 +1,7 @@
 Origin: XLibre
 Label: XLibre Devuan Packages
 Codename: main
-Date: Mon, 08 Dec 2025 02:53:23 UTC
+Date: Mon, 08 Dec 2025 04:02:32 UTC
 Architectures: amd64
 Components: stable
 Description: Devuan repository for XLibre.
@@ -9,20 +9,20 @@ MD5Sum:
  9da91409da275f506c86f8660cd36d1a 78341 stable/binary-amd64/Packages
  68142775d300b0852ec134f59564cbd1 19957 stable/binary-amd64/Packages.gz
  9daa9747283c3b46f31e6f70c2597e5c 126 stable/binary-amd64/Release
- 90ba76b8b7783bc91cbe953590a88f46 39038 stable/source/Sources
- 313ab18eccbca9c3060d2486f9979edb 9691 stable/source/Sources.gz
+ d41d8cd98f00b204e9800998ecf8427e 0 stable/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 stable/source/Sources.gz
  0b11d925e4d6ac5cb5578c0f69120efa 127 stable/source/Release
 SHA1:
  18a90b5105f5983491857abb698e5c0600b2375b 78341 stable/binary-amd64/Packages
  7869e6d5a79e37fc1ffb95e6e3e9a9fefefa7fe0 19957 stable/binary-amd64/Packages.gz
  17400a077267dec82a1e263a787ef332c9286a45 126 stable/binary-amd64/Release
- fe0c1fac80d99dd76df66e3c70b5ad11329ad3a4 39038 stable/source/Sources
- 38c2ae0bfca25ec9ea00bdc44b27c64182c87c0f 9691 stable/source/Sources.gz
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 stable/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 stable/source/Sources.gz
  fc051270676fa25cec26623306b5cbe0c52884a2 127 stable/source/Release
 SHA256:
  49258186756a29d0d276b594a55f2245d69f6bc34ef1b74ea253657ee5ac0593 78341 stable/binary-amd64/Packages
  779e410b69ef3576cfb403accfceba4ad14f051168dc0534857710d95b00c83f 19957 stable/binary-amd64/Packages.gz
  b0fd3ab65a4ab9130e32443aa2afbc06f0ea09ecc16546d721dc97656a2057ba 126 stable/binary-amd64/Release
- 0f1f47f0cb1f2e0d9af3ff6afd7e3d71c8e9c455bc94193322f8262e8c1197fc 39038 stable/source/Sources
- f243d58242f6c6cc95e68eec9e233ff11d7bfbce6f9c0bf0ad915ccb8dead04e 9691 stable/source/Sources.gz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 stable/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 stable/source/Sources.gz
  efaff8cac667adc65f8ff9188c26afa9bb7db6ee7fcc36ca4de26928d9de5b7c 127 stable/source/Release
