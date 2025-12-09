@@ -4,7 +4,7 @@ Hash: SHA512
 Origin: XLibre
 Label: XLibre Devuan Packages
 Codename: main
-Date: Mon, 08 Dec 2025 04:02:32 UTC
+Date: Tue, 09 Dec 2025 23:06:44 UTC
 Architectures: amd64
 Components: stable
 Description: Devuan repository for XLibre.
@@ -31,17 +31,17 @@ SHA256:
  efaff8cac667adc65f8ff9188c26afa9bb7db6ee7fcc36ca4de26928d9de5b7c 127 stable/source/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEIgdakZ2usXfodMXR15zW8bUjlPoFAmk2TdgACgkQ15zW8bUj
-lPqQyA/8DHEnS2htSHQhBsX2d8DJaxaYVFMO8+P2M2EV/q3BxZw5SHdCYYcc0gU1
-LYLLLMLo3fxoXxOo5sy1GeILjwFLfuhPSbeyzLxPA/sriAhHIt1plJq4ydLzvSEo
-OJ4arhR/oPxUPrq5ts189rV4Cb7QuPBnF1PUS/PTEgxS815sjHrWk22so9lduLvP
-5Kxksgb7E0ru+KX4HoH+lgxeTtpeOynB/EpCnKHufzFcLLJdDLa7Ceojs8O2UnXB
-mcxsz24q8x9DTFUjEv4zjDxbKuGx+aoCIUe1MOgs/WvkYoUJlWH3i6Vto/by26MW
-KmjqHLExRCIj5AO4iUNFPcRG9QZkYWl3Rri8+zTGNC12kQ8FcpyaiCcKwVlAwSn/
-NVbuXAUJg2oiQdPw4tuA8N+xy3fQ7E8QCpQOoAqgklxjReUhFTwj51WaqoyTxbdl
-1/ZXRl9rnYc+Ar2IwXamnY12RexH1P0fyzqIGMqfNhiXCdzrgq1AD52wakKvfI5z
-r6YOyYMd7P0IJNBx8uK91qD+XIigO4JljzNqbbOW/HIWCX4xRy9LJiI7dc3vaCro
-w+EqVELbzC34MiTV2Ix77G2FAw8m0PAJBVS2Whj78O+H+07kUQ9RM8K6gHoj1/fj
-NsKg59aTe7q2KDHoXIicgocsxC1prSlMau8iVtV5ZpEmR3YF82g=
-=oMvM
+iQIzBAEBCgAdFiEEIgdakZ2usXfodMXR15zW8bUjlPoFAmk4q4gACgkQ15zW8bUj
+lPrJfw//Y/hfUGnh5cfpbDYLLEA8Sz17q9P4kjYb8QWX9oxdXgCL/scL88rdou2J
+Ebw92KE0iCN23Ks3Kn3WG/Be00iOI5SjfKv2X0gKbPmic3TPoRLY3BAo/f7Lx0lK
+/4E4ssEqEXX6zvoM69+BC1pCrmOKA6BfXyUw5/cSNqGMmDdNR34cZZhbxzofMRc7
++nJuDemLGc8WeQ0AWTrUFyWaa2V59DKG2pUS+18fI6xckojE9wmWwWU7LTfKSj5m
+Yc3t0/Aeu7wWYnF+12I5UQAjXmARlkTzJkfpjJSSlxFw2wDFyXxQtKvzd9z1Jyjr
+ivgZZTE7Rjuyischvivb1uVCxjqHVyOGTwCu1LEp666Q46IdFqOALdj303DAHSc5
+PWZRE4mxbEvBPsnGmkofCSA+s3FqDYCc6ZtwC+ZoFdnpP/03D7PpSy/vBMLiqf9m
+CXbAx1O9hft26L2KemhyxYvCtAnIq9blrbwwl6v5Phmj0+c8hBPTPob1qdR9D7yV
+MEzgEt5L0JTivUp1tVtIR6Kf8FDTR8D3D9ZICEl3b+llwk//s4XgsBv/+PYmIqUd
+vhFWelLtdq15Ka/UpiNIeC+ZYDU7shnZpWEFtQ+/h6kphYEOseB4L6MpECCnInU9
+KCYFKlOwLhF+f3iwL7obxcrp17ycTBjYcy3q9+mAJH4MBLsOqwQ=
+=YrMr
 -----END PGP SIGNATURE-----
