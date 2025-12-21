@@ -4,44 +4,44 @@ Hash: SHA512
 Origin: XLibre
 Label: XLibre Devuan Packages
 Codename: main
-Date: Sun, 21 Dec 2025 01:46:12 UTC
+Date: Sun, 21 Dec 2025 21:47:22 UTC
 Architectures: amd64
 Components: stable
 Description: Devuan repository for XLibre.
 MD5Sum:
- 53a1533a8eaff32ffdf173cea5e40f61 80362 stable/binary-amd64/Packages
- 8e165001c24dcfba34482e9099bfb3e8 19961 stable/binary-amd64/Packages.gz
+ 924dbba420b0c93b90a3f1dfa69871b8 80277 stable/binary-amd64/Packages
+ 3a0eec188e9d93b9dd0cc65531b77612 20014 stable/binary-amd64/Packages.gz
  9daa9747283c3b46f31e6f70c2597e5c 126 stable/binary-amd64/Release
  d41d8cd98f00b204e9800998ecf8427e 0 stable/source/Sources
  7029066c27ac6f5ef18d660d5741979a 20 stable/source/Sources.gz
  0b11d925e4d6ac5cb5578c0f69120efa 127 stable/source/Release
 SHA1:
- 33fb1339e033cd45cb7a94b3a8100b3779c2e677 80362 stable/binary-amd64/Packages
- 2a7a083becc1cf9dc828931f92ce957b3fd53b2f 19961 stable/binary-amd64/Packages.gz
+ 022dd37a4bdcb8cdab9999be131bffd703cd0e9c 80277 stable/binary-amd64/Packages
+ 95ae6e440bafb6b2e4b20e22e837d5d855465624 20014 stable/binary-amd64/Packages.gz
  17400a077267dec82a1e263a787ef332c9286a45 126 stable/binary-amd64/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 stable/source/Sources
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 stable/source/Sources.gz
  fc051270676fa25cec26623306b5cbe0c52884a2 127 stable/source/Release
 SHA256:
- efbc9cb4c2c252372364914a5da0fc326a17f8f7beaf11b20eddadff184c4466 80362 stable/binary-amd64/Packages
- 40d66732db12705a39ce4c7232303636ee80931c8676efd8eec44b94779fca0e 19961 stable/binary-amd64/Packages.gz
+ ccadc0bdf7a61a1bb6396934dca64a9b920df470d6851d71f79adea934273c87 80277 stable/binary-amd64/Packages
+ 5d4b6a85444975b92b628aea1995e443395445b2fae37416243c1604f1ba7f85 20014 stable/binary-amd64/Packages.gz
  b0fd3ab65a4ab9130e32443aa2afbc06f0ea09ecc16546d721dc97656a2057ba 126 stable/binary-amd64/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 stable/source/Sources
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 stable/source/Sources.gz
  efaff8cac667adc65f8ff9188c26afa9bb7db6ee7fcc36ca4de26928d9de5b7c 127 stable/source/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEIgdakZ2usXfodMXR15zW8bUjlPoFAmlHUWQACgkQ15zW8bUj
-lPrFRBAAkqUWgFotd+HOFGUSsr3p2r72yYIXk24+Jz6cOiT0UDyYq5LiZP6ZyVnz
-itn/9vYHZFOsG8qeSpiDDhLNjkfDagDXy0BS6udwtU5NKAQMVivYeoeCJWHnl5Z4
-/nc4U5G7tILCGXctcJmZ5gAV911ctepfCkPRNrnuGNT3/0nCGobij8NpohWDcdbG
-P2KUiV3jzxtmsuMOpL06fuKLKuKCJnIaqBLJxpCBLzEk6MNlO9YyURNMJmxWETXN
-0vTqGzjjmLklo7nkFbUrbyBggbLkJmSp5BFIqnAmZuv0BwLwunn0d5HpJ86Yr3gZ
-T69ceZ93cejLn8SVkCCxA24Oqn+GpxckrZWuf54ZsS/NQ3avqm6CDxDfSNVfj+iu
-R+k/cCEGKFdlaDb1p6cNF1YPksxUGtz6Kow8dhny5pXAwCxVeqakyhCEJ1YmpC7Y
-pCYEAHZ+aCMbaAGF+6sFdnjQ64PARtiAn6zFYju9LxnDV8ZDzdtX7KXDa8f4ykUl
-9Lizda35kOdYoFDqCEN88BTFaCxQh76DwCkglItK7NojQ8njkSZgsD6o/6rn/mbv
-nh1HOhUUF+6oQqJTzoqINMgXVNfjDV4tuGWN0mb1f8gFmoxHOVfJ0lQRJjjRUVIt
-6OBL8LMxvubF/A91cpbqDqekvtQW/HhZjOO01zi9BWKGHHK8DBk=
-=3stc
+iQIzBAEBCgAdFiEEIgdakZ2usXfodMXR15zW8bUjlPoFAmlIausACgkQ15zW8bUj
+lPrtQw//RUWaNWqJCFOb+tcaklEZUESQAb3Tb17SeeSxs1eaAiDVjHtyA0FTr2Po
+yCCtkSwv9K/N6yYzkHjDohTtqbdB+WTdW6qZWG3iuN7nDW3G20CLBPdghdFlXXD2
+VLHc3VWRYubBfHELi4/n1+aFF/ic159FR7DVzh3b8DmuJaDyxlk36rVLVHbFvhqZ
+jvERR1V5fwwC8H1x+vw3XDll5esFW65A0tArXlp6wBruRXbR9FNFNLbcfRXPI2xg
+aYefOZOKOUTQW9+I4CKKJcnMb4NFDEW8E6PHmYzRDcmNn/koaoio9FPpvLQpXXP0
+08ZS9oXmoe9yV+u/pNPSkmEyw1OJsJr4Q/oTRQDNVwmlD3YRY/F7UAlsOuW+ADMf
+7/a4I0O65/IdPZeZ0OSrg2dD7/hXlz9egi5jms0MCiMfACnRzrBVa87jO92QXYiV
+xBq9JxkWfr+rsar4nfH86LfVn3puOpGK27dZv/uNtxB9WVXSjegW7T05HI1zTCPo
+Kht+NVpuVqIFbj0hirGtjoUdnu+TxhA44wEzWNmhr9KKHBzWYQYNjTWNOgI+chY4
+bQZR+x3hQjxTpw6YnL3T1LF8SiZG+lHXLL23Rew9EwMR0Gj4XIdt0+grVy8KDaud
+RmN2rGrytblt10n7G+xMO+Oc9ClHNWJjC4XrtUknZkvbpV/kR+o=
+=9341
 -----END PGP SIGNATURE-----
