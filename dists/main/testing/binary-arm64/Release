@@ -1,0 +1,5 @@
+Component: testing
+Origin: XLibre
+Label: XLibre Devuan Packages
+Architecture: arm64
+Description: Devuan repository for XLibre.
